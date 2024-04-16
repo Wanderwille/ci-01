@@ -32,32 +32,32 @@
 
 Workflow Bug
 
-[!Скриншот 1](https://github.com/Wanderwille/scrinshot/blob/main/bug%20workflows.png)
+![Скриншот 1](https://github.com/Wanderwille/scrinshot/blob/main/bug%20workflows.png)
 
 Файл hml: https://github.com/Wanderwille/file/blob/main/BUG%20(2).xml
 
 Workflow Other
 
-[!Скриншот 2](https://github.com/Wanderwille/scrinshot/blob/main/other%20workflow.png)
+![Скриншот 2](https://github.com/Wanderwille/scrinshot/blob/main/other%20workflow.png)
 
 Файл hml: https://github.com/Wanderwille/file/blob/main/Other.xml
 
 1. Задача Bug:
 
-[!Скриншот 3](https://github.com/Wanderwille/scrinshot/blob/main/закрыта%20задача%20bug.png)
+![Скриншот 3](https://github.com/Wanderwille/scrinshot/blob/main/закрыта%20задача%20bug.png)
 
 
 2. Задача Epic:
 
-[!Скриншот 5](https://github.com/Wanderwille/scrinshot/blob/main/задачи%20типа%20Epic.png)
+![Скриншот 5](https://github.com/Wanderwille/scrinshot/blob/main/задачи%20типа%20Epic.png)
 
-[!Скриншот 6](https://github.com/Wanderwille/scrinshot/blob/main/epicDone.png)
+![Скриншот 6](https://github.com/Wanderwille/scrinshot/blob/main/epicDone.png)
 
 3. Scrum:
 
-[!Скриншот 7](https://github.com/Wanderwille/scrinshot/blob/main/sptint.png)
+![Скриншот 7](https://github.com/Wanderwille/scrinshot/blob/main/sptint.png)
 
 4. Спринт:
 
-[!Скриншот 8](https://github.com/Wanderwille/scrinshot/blob/main/sprint2.png)
+![Скриншот 8](https://github.com/Wanderwille/scrinshot/blob/main/sprint2.png)
 
